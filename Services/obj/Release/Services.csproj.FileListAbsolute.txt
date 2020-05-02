@@ -1,0 +1,9 @@
+C:\Users\George\source\repos\ClientServerProb\Services\obj\Release\Services.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\ClientServerProb\Services\bin\Release\Services.dll
+C:\Users\George\source\repos\ClientServerProb\Services\bin\Release\Services.pdb
+C:\Users\George\source\repos\ClientServerProb\Services\bin\Release\Model.dll
+C:\Users\George\source\repos\ClientServerProb\Services\bin\Release\Model.pdb
+C:\Users\George\source\repos\ClientServerProb\Services\obj\Release\Services.csprojAssemblyReference.cache
+C:\Users\George\source\repos\ClientServerProb\Services\obj\Release\Services.csproj.CopyComplete
+C:\Users\George\source\repos\ClientServerProb\Services\obj\Release\Services.dll
+C:\Users\George\source\repos\ClientServerProb\Services\obj\Release\Services.pdb

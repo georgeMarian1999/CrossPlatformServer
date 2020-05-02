@@ -1,0 +1,56 @@
+syntax="proto3";
+package Protocol;
+
+message DTOAngajat{
+  string username=1;
+  string password=2;
+}
+message InfoSubmit {
+  int32 capacitate=1;
+  string numeParticipant=2;
+  string numeEchipa=3;
+}
+message DTOCursa {
+  int32 idCursa=1;
+  int32 capacitate=2;
+  int32 nrInscrisi=3;
+}
+message DTOPart {
+  int32 idParticipant=1;
+  string NumePart=2;
+  int32 capacitate=3;
+}
+message Request {
+  enum Type {
+    UNKNOWN=0;
+    LOGIN=1;
+    LOGOUT=2;
+    SUBMIT_INSC=3;
+    SEARCH_BY_TEAM=4;
+    GET_CURRENT_CURSE=5;
+    GET_ALL_TEAMS=6;
+  }
+  Type type=1;
+  oneof data {
+    DTOAngajat angajat=2;
+    InfoSubmit infoSubmit=3;
+    string team=4;
+  }
+}
+message Response {
+  enum Type {
+    UNKNOWN=0;
+    OK=1;
+    ERROR=2;
+    NEW_SUBMIT=3;
+    GET_DISP_CURSE=4;
+    GET_SEARCH_RESULT=5;
+    ALL_TEAM_RESULT=6;
+  }
+  Type type=1;
+  string error=2;
+  repeated DTOCursa curse=3;
+  repeated DTOPart part=4;
+  repeated string echipe=5;
+}
+

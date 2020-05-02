@@ -1,0 +1,11 @@
+C:/Users/George/source/repos/ClientServerProb/Model/obj/Debug/Model.csprojAssemblyReference.cache
+C:/Users/George/source/repos/ClientServerProb/Model/obj/Debug/Model.csproj.CoreCompileInputs.cache
+C:/Users/George/source/repos/ClientServerProb/Model/bin/Debug/Model.dll
+C:/Users/George/source/repos/ClientServerProb/Model/bin/Debug/Model.pdb
+C:/Users/George/source/repos/ClientServerProb/Model/obj/Debug/Model.dll
+C:/Users/George/source/repos/ClientServerProb/Model/obj/Debug/Model.pdb
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Model/bin/Debug/Model.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Model/bin/Debug/Model.pdb
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Model/obj/Debug/Model.csprojAssemblyReference.cache
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Model/obj/Debug/Model.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Model/obj/Debug/Model.pdb

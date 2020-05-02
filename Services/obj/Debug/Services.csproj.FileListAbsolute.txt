@@ -1,0 +1,17 @@
+C:/Users/George/source/repos/ClientServerProb/Services/obj/Debug/Services.csprojAssemblyReference.cache
+C:/Users/George/source/repos/ClientServerProb/Services/obj/Debug/Services.csproj.CoreCompileInputs.cache
+C:/Users/George/source/repos/ClientServerProb/Services/bin/Debug/Services.dll
+C:/Users/George/source/repos/ClientServerProb/Services/bin/Debug/Services.pdb
+C:/Users/George/source/repos/ClientServerProb/Services/bin/Debug/Model.dll
+C:/Users/George/source/repos/ClientServerProb/Services/bin/Debug/Model.pdb
+C:/Users/George/source/repos/ClientServerProb/Services/obj/Debug/Services.csproj.CopyComplete
+C:/Users/George/source/repos/ClientServerProb/Services/obj/Debug/Services.dll
+C:/Users/George/source/repos/ClientServerProb/Services/obj/Debug/Services.pdb
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Services/bin/Debug/Services.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Services/bin/Debug/Services.pdb
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Services/bin/Debug/Model.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Services/bin/Debug/Model.pdb
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Services/obj/Debug/Services.csprojAssemblyReference.cache
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Services/obj/Debug/Services.csproj.CopyComplete
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Services/obj/Debug/Services.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Services/obj/Debug/Services.pdb

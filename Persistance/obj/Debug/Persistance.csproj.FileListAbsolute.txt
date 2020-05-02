@@ -1,0 +1,338 @@
+C:/Users/George/source/repos/ClientServerProb/Persistance/obj/Debug/Persistance.csprojAssemblyReference.cache
+C:/Users/George/source/repos/ClientServerProb/Persistance/obj/Debug/Persistance.csproj.CoreCompileInputs.cache
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Persistance.dll.config
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Persistance.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Persistance.pdb
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Win32.Primitives.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/netstandard.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.AppContext.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Collections.Concurrent.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Collections.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Collections.NonGeneric.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Collections.Specialized.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.ComponentModel.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.ComponentModel.Primitives.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.ComponentModel.TypeConverter.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Console.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Data.Common.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.Contracts.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.Debug.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.FileVersionInfo.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.Process.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.StackTrace.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.Tools.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.TraceSource.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.Tracing.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Drawing.Primitives.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Dynamic.Runtime.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Globalization.Calendars.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Globalization.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Globalization.Extensions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.IO.Compression.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.IO.Compression.ZipFile.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.IO.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.IO.FileSystem.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.IO.FileSystem.DriveInfo.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.IO.FileSystem.Primitives.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.IO.FileSystem.Watcher.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.IO.IsolatedStorage.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.IO.MemoryMappedFiles.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.IO.Pipes.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.IO.UnmanagedMemoryStream.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Linq.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Linq.Expressions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Linq.Parallel.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Linq.Queryable.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Net.Http.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Net.NameResolution.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Net.NetworkInformation.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Net.Ping.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Net.Primitives.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Net.Requests.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Net.Security.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Net.Sockets.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Net.WebHeaderCollection.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Net.WebSockets.Client.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Net.WebSockets.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.ObjectModel.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Reflection.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Reflection.Extensions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Reflection.Primitives.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Resources.Reader.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Resources.ResourceManager.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Resources.Writer.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.Extensions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.Handles.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.InteropServices.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.Numerics.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.Serialization.Formatters.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.Serialization.Json.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.Serialization.Primitives.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.Serialization.Xml.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Security.Claims.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Security.Cryptography.Algorithms.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Security.Cryptography.Csp.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Security.Cryptography.Encoding.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Security.Cryptography.Primitives.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Security.Principal.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Security.SecureString.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Text.Encoding.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Text.Encoding.Extensions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Text.RegularExpressions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Threading.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Threading.Overlapped.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Threading.Tasks.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Threading.Tasks.Parallel.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Threading.Thread.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Threading.ThreadPool.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Threading.Timer.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.ValueTuple.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Xml.ReaderWriter.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Xml.XDocument.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Xml.XmlDocument.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Xml.XmlSerializer.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Xml.XPath.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Xml.XPath.XDocument.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/log4net.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Data.Sqlite.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Model.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/SQLitePCLRaw.core.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/SQLitePCLRaw.nativelibrary.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Buffers.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Memory.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Numerics.Vectors.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Model.pdb
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/log4net.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Data.Sqlite.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Buffers.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Memory.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Numerics.Vectors.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/obj/Debug/Persistance.csproj.CopyComplete
+C:/Users/George/source/repos/ClientServerProb/Persistance/obj/Debug/Persistance.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/obj/Debug/Persistance.pdb
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/x86/sqlite3.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/x64/sqlite3.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Bcl.HashCode.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.EntityFrameworkCore.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Configuration.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.DependencyModel.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Logging.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Options.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Primitives.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Newtonsoft.Json.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Collections.Immutable.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.ComponentModel.Annotations.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Data.SQLite.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.DiagnosticSource.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Threading.Tasks.Extensions.dll
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Bcl.HashCode.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.DotNet.PlatformAbstractions.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.EntityFrameworkCore.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.EntityFrameworkCore.Abstractions.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.EntityFrameworkCore.Relational.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.EntityFrameworkCore.Sqlite.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Caching.Abstractions.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Caching.Memory.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Configuration.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Configuration.Binder.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.DependencyInjection.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.DependencyModel.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Logging.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Logging.Abstractions.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Options.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Primitives.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/Newtonsoft.Json.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Collections.Immutable.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Data.SQLite.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Data.SQLite.dll.config
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.DiagnosticSource.xml
+C:/Users/George/source/repos/ClientServerProb/Persistance/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/x86/sqlite3.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/x64/sqlite3.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Persistance.dll.config
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Persistance.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Persistance.pdb
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Win32.Primitives.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/netstandard.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.AppContext.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Collections.Concurrent.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Collections.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Collections.NonGeneric.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Collections.Specialized.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.ComponentModel.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.ComponentModel.Primitives.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.ComponentModel.TypeConverter.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Console.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Data.Common.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.Contracts.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.Debug.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.FileVersionInfo.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.Process.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.StackTrace.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.Tools.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.TraceSource.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.Tracing.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Drawing.Primitives.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Dynamic.Runtime.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Globalization.Calendars.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Globalization.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Globalization.Extensions.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.IO.Compression.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.IO.Compression.ZipFile.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.IO.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.IO.FileSystem.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.IO.FileSystem.DriveInfo.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.IO.FileSystem.Primitives.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.IO.FileSystem.Watcher.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.IO.IsolatedStorage.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.IO.MemoryMappedFiles.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.IO.Pipes.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.IO.UnmanagedMemoryStream.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Linq.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Linq.Expressions.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Linq.Parallel.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Linq.Queryable.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Net.Http.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Net.NameResolution.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Net.NetworkInformation.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Net.Ping.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Net.Primitives.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Net.Requests.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Net.Security.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Net.Sockets.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Net.WebHeaderCollection.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Net.WebSockets.Client.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Net.WebSockets.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.ObjectModel.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Reflection.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Reflection.Extensions.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Reflection.Primitives.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Resources.Reader.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Resources.ResourceManager.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Resources.Writer.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.Extensions.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.Handles.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.InteropServices.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.Numerics.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.Serialization.Formatters.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.Serialization.Json.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.Serialization.Primitives.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.Serialization.Xml.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Security.Claims.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Security.Cryptography.Csp.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Security.Principal.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Security.SecureString.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Text.Encoding.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Text.Encoding.Extensions.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Text.RegularExpressions.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Threading.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Threading.Overlapped.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Threading.Tasks.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Threading.Tasks.Parallel.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Threading.Thread.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Threading.ThreadPool.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Threading.Timer.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.ValueTuple.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Xml.ReaderWriter.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Xml.XDocument.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Xml.XmlDocument.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Xml.XmlSerializer.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Xml.XPath.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Xml.XPath.XDocument.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/log4net.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Bcl.HashCode.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Configuration.Binder.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Configuration.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.DependencyInjection.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.DependencyModel.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Logging.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Options.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Primitives.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Model.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Newtonsoft.Json.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/SQLitePCLRaw.core.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/SQLitePCLRaw.nativelibrary.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Buffers.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Collections.Immutable.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.ComponentModel.Annotations.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Data.SQLite.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.DiagnosticSource.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Memory.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Numerics.Vectors.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Model.pdb
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/log4net.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Bcl.HashCode.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Caching.Abstractions.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Configuration.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Configuration.Binder.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.DependencyInjection.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.DependencyModel.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Logging.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Logging.Abstractions.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Options.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Microsoft.Extensions.Primitives.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Newtonsoft.Json.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Buffers.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Collections.Immutable.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Data.SQLite.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Data.SQLite.dll.config
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Diagnostics.DiagnosticSource.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Memory.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Numerics.Vectors.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/obj/Debug/Persistance.csprojAssemblyReference.cache
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/obj/Debug/Persistance.csproj.CopyComplete
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/obj/Debug/Persistance.dll
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/obj/Debug/Persistance.pdb
+/Users/mariangeorge/Desktop/ClientServerProb (1)/ClientServerProb/Persistance/bin/Debug/Mono.Data.Sqlite.dll
